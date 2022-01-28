@@ -83,30 +83,43 @@ limit the amount the contract sells to keep a healthy chart.
 PROJECT LINKS
 
 
-Telegram: www.t.me/AtomicFlokiInu
+Telegram: 
+www.t.me/AtomicFlokiInu
 
-Chinese Telegram: www.t.me/AtomicLlokiInuChina
+Chinese Telegram: 
+www.t.me/AtomicLlokiInuChina
 
-Announcements: www.t.me/AtomicFlokiInuAnnouncments
+Announcements: 
+www.t.me/AtomicFlokiInuAnnouncments
 
-Website: www.AtomicFlokiInu.com
+Website: 
+www.AtomicFlokiInu.com
 
-Twitter: www.twitter.com/AtomicFlokiInu
+Twitter: 
+www.twitter.com/AtomicFlokiInu
 
-Reddit:www.reddit.com/r/AtomicFlokiINU?utm_medium=android_app&u
+Reddit:
+www.reddit.com/r/AtomicFlokiINU?utm_medium=android_app&u
 tm_source=share
 
-Facebook: www.facebook.com/groups/1820520851474104/?ref=share
+Facebook: 
+www.facebook.com/groups/1820520851474104/?ref=share
 
-Github: https://github.com/AtomicFlokiINU/AtomicFlokiINU
+Github: 
+https://github.com/AtomicFlokiINU/AtomicFlokiINU
 
-Contract Address: 0xaf748700024fd4c2e2cf017b8eaf315b28c4f1da
+Contract Address: 
+0xaf748700024fd4c2e2cf017b8eaf315b28c4f1da
 
-Chart: https://poocoin.app/tokens/0xaf748700024fd4c2e2cf017b8eaf315b28c4f1da
+Chart: 
+https://poocoin.app/tokens/0xaf748700024fd4c2e2cf017b8eaf315b28c4f1da
 
-Buy on PancakeSwap:
+Buy on PancakeSwap: 
+https://pancakeswap.finance/swap?outputCurrency=0xaf748700024fd4c2e2cf017b8eaf315b28c4f1da
 
-Liquidity Lock Link:
+
+Presale Link:
+https://www.pinksale.finance/#/launchpad/0xb77047CC78304ECb4A5Eeb09D0aeFEafcCe1ECc5?chain=BSC
 
 
 More project links will be added as the project grows.
